@@ -1,7 +1,9 @@
 # rgh3qsb
 RGH3 Xbox 360 PCB
 
-Made a few pcb designs in eagle for the rgh3 mod for the 360.
+Made a few pcb designs in eagle for the rgh3 mod for the 360 kind of janky never used the program before....
+
+***Will update this with the resistors/diode info.
 
 Some files may not upload properply if you try and get some made.
 
